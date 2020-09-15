@@ -1,0 +1,20 @@
+*Emacs defaults settings*
+
+The goal of this configuration file is to materialize what are Emacs default
+settings. If you start emacs using =emacs -q= or =emacs -q -l defaults.el= you
+should obtain the exact same look and behavior.
+
+*How to contribute*
+
+For any setting that can be set, you can add a one line description and the
+actual setting with default value. For example, for line spacing:
+
+#+begin_src lisp
+;; Line spacing (in pixels)
+(setq-default line-spacing 0)
+#+end_src
+
+You can then send me your proposed change through a pull request.
+
+*Note* Since there are amny default key bindings, I only add the most
+obvious/frequent ones. Feel free to propose some I may have forgot.
