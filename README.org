@@ -16,5 +16,5 @@ actual setting with default value. For example, for line spacing:
 
 You can then send me your proposed change through a pull request.
 
-*Note* Since there are amny default key bindings, I only add the most
-obvious/frequent ones. Feel free to propose some I may have forgot.
+*Note:* Since there are many default key bindings, I only added the most obvious
+and frequent ones. Feel free to propose some I may have forgot.
