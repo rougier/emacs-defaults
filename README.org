@@ -1,6 +1,6 @@
 *Emacs defaults settings*
 
-The goal of this configuration file is to materialize what are Emacs default
+The goal of this [[defaults.el][configuration file]] is to materialize what are Emacs default
 settings. If you start emacs using =emacs -q= or =emacs -q -l defaults.el= you
 should obtain the exact same look and behavior.
 

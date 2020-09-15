@@ -17,6 +17,14 @@
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program. If not, see <http://www.gnu.org/licenses/>
 ;; -------------------------------------------------------------------
+;; Description:
+;;   The goal of this configuration file is to materialize what are
+;;   Emacs default settings. If you start emacs using "emacs -q" or
+;;   "emacs -q -l defaults.el", you should obtain the exact same look
+;;   and behavior.
+;; -------------------------------------------------------------------
+;; Usage: emacs -q -l defaults.el
+;; -------------------------------------------------------------------
 
 ;; Selected frame width (in characters)
 ;; (set-frame-parameter nil 'width 80)
